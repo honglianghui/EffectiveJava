@@ -12,6 +12,10 @@ import charapter01.NyPizza.Size;
 
 public class Test {
 	public static void main(String[] args) {
+
+
+
+
 		System.out.println("Check test main method");
 		System.out.println("123454");
 		System.out.println("000000000000");
