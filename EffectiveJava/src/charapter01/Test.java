@@ -18,7 +18,7 @@ public class Test {
 		 * 
 		 * if (value) System.out.println("Is true");
 		 */
-		/*long begin = System.currentTimeMillis();
+		long begin = System.currentTimeMillis();
 		long sum = 0L;
 		for (long i = 0; i <= Integer.MAX_VALUE; i++) {
 			sum += i;
@@ -26,7 +26,7 @@ public class Test {
 
 		long end = System.currentTimeMillis();
 
-		System.out.println("spend: " + (end - begin));*/
+		System.out.println("spend: " + (end - begin));
 
 		// InputStream OutputStream java.sql.Connection
 		

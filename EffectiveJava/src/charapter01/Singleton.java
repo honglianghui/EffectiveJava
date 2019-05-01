@@ -7,7 +7,7 @@ public class Singleton implements Serializable {
 	public static final Singleton Elvis = new Singleton();
 
 	private Singleton() {
-		i = 3;
+		i = 5;
 	}
 
 	private Object readResolve() {
@@ -35,5 +35,4 @@ final class UtilityClass{
 		throw new AssertionError();
 	}
 	//这种习惯用法也有副作用, 它使得一个类不能被子类化
-	
 }
