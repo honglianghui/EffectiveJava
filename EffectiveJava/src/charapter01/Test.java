@@ -14,6 +14,7 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("Check test main method");
 		System.out.println("123454");
+		System.out.println("000000000000");
 		/*
 		 * boolean value = Boolean.valueOf("true"); boolean vlaue2 = new
 		 * Boolean("true");
